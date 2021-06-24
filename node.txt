@@ -1,6 +1,5 @@
+trojan://7490a97a-7d57-40a2-98f7-0d2dcd792b52@a5295c7408e9b7a10.awsglobalaccelerator.com:443?sni=aga.sjebo.com.cn#%e9%a6%99%e6%b8%afAGA%5bM%5d
 
-trojan://7490a97a-7d57-40a2-98f7-0d2dcd792b52@183.236.55.156:32000?sni=jm.sjebo.com.cn#%e6%97%a5%e6%9c%ac%e4%b8%ad%e8%bd%ac%5bM%5d
-trojan://7490a97a-7d57-40a2-98f7-0d2dcd792b52@120.241.72.98:32000?sni=jm.sjebo.com.cn#%e6%97%a5%e6%9c%ac%e4%b8%ad%e8%bd%ac%5bM%5d
 
 
 
